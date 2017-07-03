@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CEK NIP PNS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string> Test Unit
+    <string name="banner_ad_unit_id">ca-app-pub-2953879827169015/6147663088</string> AdCode Banner Image gallery 1
+</resources>
